@@ -1,6 +1,6 @@
 # identityTemplates
 
-Included here are the analysis scripts (jupyter notebooks .ipynb and .html) for Exps 1 & 2 from the related article published in Journal of Neuroscience:
+Included here are the analysis scripts (jupyter notebooks .ipynb and .html) for Exps 1 & 2 from the related article published in The Journal of Neuroscience: </br> </br>
 Boettcher, S.E.P., Stokes, M.G., Nobre, A.C.*, & van Ede, F*. (2020) One Thing Leads to Another: Anticipating Visual Object   Identity Based on Associative-Memory Templates, Journal of Neuroscience. https://doi.org/10.1523/JNEUROSCI.2751-19.2020
 
 
