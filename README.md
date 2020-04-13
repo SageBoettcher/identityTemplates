@@ -9,10 +9,10 @@ Probabilistic associations between stimuli afford memory templates that guide pe
 
 # Code
 Experiment 1:
-Preprocessing (.ipynb & .html)
-Analsysis (.ipynb & .html)
+* Preprocessing (.ipynb & .html)
+* Analsysis (.ipynb & .html)
 
 Experiment 2:
-Preprocessing_cue (.ipynb & .html)
-Preprocessing_tar (.ipynb & .html)
-Analsysis (.ipynb & .html)
+* Preprocessing_cue (.ipynb & .html)
+* Preprocessing_tar (.ipynb & .html)
+* Analsysis (.ipynb & .html)
